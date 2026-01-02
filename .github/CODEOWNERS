@@ -1,34 +1,34 @@
-* @HelloWRC @ClassIsland/developers-classisland
+* @HelloWRC @ClassIsland/developers-classisland @AWDNDWindowsXP @XPSoftware
 
 # 关键文件
-/.github/ @HelloWRC
-/tools/ @HelloWRC
-*.md @HelloWRC
-*.ps1 @HelloWRC
+/.github/ @HelloWRC @AWDNDWindowsXP
+/tools/ @HelloWRC @AWDNDWindowsXP
+*.md @HelloWRC @AWDNDWindowsXP
+*.ps1 @HelloWRC @AWDNDWindowsXP
 
 # 构建关键文件
-*.csproj @HelloWRC
-*.props @HelloWRC
-*.targets @HelloWRC
+*.csproj @HelloWRC @AWDNDWindowsXP
+*.props @HelloWRC @AWDNDWindowsXP
+*.targets @HelloWRC @AWDNDWindowsXP
 
 # 关键组件
-/ClassIsland/Services/LessonsService.cs @HelloWRC
-/ClassIsland/Services/ProfileService.cs @HelloWRC
-/ClassIsland/Services/SettingsService.cs @HelloWRC
-/ClassIsland/Services/Management/ @HelloWRC
-/ClassIsland/MainWindow.xaml* @HelloWRC
-/ClassIsland/App.xaml* @HelloWRC
-/ClassIsland.Core/ThemeBase.xaml @HelloWRC
+/ClassIsland/Services/LessonsService.cs @HelloWRC @AWDNDWindowsXP
+/ClassIsland/Services/ProfileService.cs @HelloWRC @AWDNDWindowsXP
+/ClassIsland/Services/SettingsService.cs @HelloWRC @AWDNDWindowsXP
+/ClassIsland/Services/Management/ @HelloWRC @AWDNDWindowsXP
+/ClassIsland/MainWindow.xaml* @HelloWRC @AWDNDWindowsXP
+/ClassIsland/App.xaml* @HelloWRC @AWDNDWindowsXP
+/ClassIsland.Core/ThemeBase.xaml @HelloWRC @AWDNDWindowsXP
 
 # 类别：自动化
-**/Action @DryIce-cc @HelloWRC
-**/Automation @DryIce-cc @HelloWRC
-/ClassIsland.Core/Abstractions/Services/IActionService.cs @DryIce-cc @HelloWRC
-/ClassIsland.Core/Abstractions/Services/IAutomationService.cs @DryIce-cc @HelloWRC
-/ClassIsland/Services/ActionService.cs @DryIce-cc @HelloWRC
-/ClassIsland/Services/AutomationService.cs @DryIce-cc @HelloWRC
-/ClassIsland/Services/ActionHandlers @DryIce-cc @HelloWRC
-/ClassIsland/Controls/ActionSettingsControls @DryIce-cc @HelloWRC
+**/Action @DryIce-cc @HelloWRC @AWDNDWindowsXP
+**/Automation @DryIce-cc @HelloWRC @AWDNDWindowsXP
+/ClassIsland.Core/Abstractions/Services/IActionService.cs @DryIce-cc @HelloWRC @AWDNDWindowsXP
+/ClassIsland.Core/Abstractions/Services/IAutomationService.cs @DryIce-cc @HelloWRC @AWDNDWindowsXP
+/ClassIsland/Services/ActionService.cs @DryIce-cc @HelloWRC @AWDNDWindowsXP
+/ClassIsland/Services/AutomationService.cs @DryIce-cc @HelloWRC @AWDNDWindowsXP
+/ClassIsland/Services/ActionHandlers @DryIce-cc @HelloWRC @AWDNDWindowsXP
+/ClassIsland/Controls/ActionSettingsControls @DryIce-cc @HelloWRC @AWDNDWindowsXP
 
 # 类别：集控/Protobuf
-*.proto @Doctor-yoi @HelloWRC
+*.proto @Doctor-yoi @HelloWRC @AWDNDWindowsXP

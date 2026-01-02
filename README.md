@@ -247,17 +247,6 @@ ClassIsland 与部分窗口美化工具（特别是如 Mica For Everyone 这类�
 
 感谢以下赞助商对本项目的支持。
 
-## 代码签名策略 / Code signing policy
-
-- Free code signing provided by [SignPath.io](https://about.signpath.io/), certificate by [SignPath Foundation](https://signpath.org/).<br/>
-  由 [SignPath.io](https://about.signpath.io/) 提供免费代码签名，由 [SignPath Foundation](https://signpath.org/) 提供证书。
-- Committers and reviewers: [Members team](https://github.com/orgs/ClassIsland/teams/members)<br/>
-  提交者和审阅者：[团队成员](https://github.com/orgs/ClassIsland/people)
-- Approvers: [Owners](https://github.com/orgs/ClassIsland/people?query=role%3Aowner)<br/>
-  审批人：[所有者](https://github.com/orgs/ClassIsland/people?query=role%3Aowner)
-- [Privacy policy](./doc/Privacy.md)<br/>
- [隐私政策](./doc/Privacy.md)
-
 ## 许可证
 
 本项目中的以下项目基于 GNU Lesser General Public License v3.0 获得许可：
