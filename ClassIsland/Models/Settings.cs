@@ -198,6 +198,8 @@ public class Settings : ObservableRecipient, ILessonControlSettings, INotificati
     private Color _customForegroundColor = Colors.DodgerBlue;
     private bool _isPluginMarketWarningVisible = true;
     private bool _isTransientDisabled = false;
+    private bool _isConnectionWarningVisible = true;
+    private bool _isConnectionEnabled = false;
     private bool _isWaitForTransientDisabled = false;
     private bool _isCriticalSafeMode = false;
     private double _scheduleSpacing = 1;
@@ -1185,6 +1187,32 @@ public class Settings : ObservableRecipient, ILessonControlSettings, INotificati
         {
             if (value == _currentComponentConfig) return;
             _currentComponentConfig = value;
+            OnPropertyChanged();
+        }
+    }
+
+    #endregion
+    
+    #region Connection
+
+    public bool IsConnectionWarningVisible
+    {
+        get => _isConnectionWarningVisible;
+        set
+        {
+            if (value == _isConnectionWarningVisible) return;
+            _isConnectionWarningVisible = value;
+            OnPropertyChanged();
+        }
+    }
+    
+    public bool IsConnectionEnabled
+    {
+        get => _isConnectionEnabled;
+        set
+        {
+            if (value == _isConnectionEnabled) return;
+            _isConnectionEnabled = value;
             OnPropertyChanged();
         }
     }

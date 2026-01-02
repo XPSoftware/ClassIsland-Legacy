@@ -581,6 +581,7 @@ public partial class App : AppBase, IAppHost
                 services.AddSettingsPage<WeatherSettingsPage>();
                 services.AddSettingsPage<UpdatesSettingsPage>();
                 services.AddSettingsPage<AutomationSettingsPage>();
+                services.AddSettingsPage<ConnectionSettingsPage>();
                 services.AddSettingsPage<StorageSettingsPage>();
                 services.AddSettingsPage<PrivacySettingsPage>();
                 services.AddSettingsPage<PluginsSettingsPage>();
