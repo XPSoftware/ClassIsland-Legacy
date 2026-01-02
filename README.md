@@ -7,17 +7,17 @@
 
 # <image src="ClassIsland/Assets/AppLogo_AppLogo.svg" height="28" width="28"/> ClassIsland
 
-<!-- ![软件截图 - 主界面](https://github.com/ClassIsland/ClassIsland/assets/55006226/65e2bdba-be83-444c-b42f-b893aaace9c3) -->
+<!-- ![软件截图 - 主界面](https://github.com/XPSoftware/ClassIsland-Legacy/assets/55006226/65e2bdba-be83-444c-b42f-b893aaace9c3) -->
 
 ![Banner](https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4)
 
-[![Stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?label=Stars)](https://github.com/ClassIsland/ClassIsland)
-[![正式版 Release](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?style=flat-square&color=%233fb950&label=正式版)](https://github.com/ClassIsland/ClassIsland/releases/latest)
-[![测试版 Release](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?include_prereleases&style=flat-square&label=测试版)](https://github.com/ClassIsland/ClassIsland/releases/)
-[![下载量](https://img.shields.io/github/downloads/ClassIsland/ClassIsland/total?style=social&label=下载量&logo=github)](https://github.com/ClassIsland/ClassIsland/releases/latest)<br/>
+[![Stars](https://img.shields.io/github/stars/XPSoftware/ClassIsland-Legacy?label=Stars)](https://github.com/XPSoftware/ClassIsland-Legacy)
+[![正式版 Release](https://img.shields.io/github/v/release/XPSoftware/ClassIsland-Legacy?style=flat-square&color=%233fb950&label=正式版)](https://github.com/XPSoftware/ClassIsland-Legacy/releases/latest)
+[![测试版 Release](https://img.shields.io/github/v/release/XPSoftware/ClassIsland-Legacy?include_prereleases&style=flat-square&label=测试版)](https://github.com/XPSoftware/ClassIsland-Legacy/releases/)
+[![下载量](https://img.shields.io/github/downloads/XPSoftware/ClassIsland-Legacy/total?style=social&label=下载量&logo=github)](https://github.com/XPSoftware/ClassIsland-Legacy/releases/latest)<br/>
 ![.NET 版本](https://img.shields.io/badge/.NET-8-512bd4?style=flat-square)
-![GitHub Repo size](https://img.shields.io/github/repo-size/ClassIsland/ClassIsland?style=flat-square&color=3cb371)
-[![GitHub Repo Languages](https://img.shields.io/github/languages/top/ClassIsland/ClassIsland?style=flat-square)](https://github.com/ClassIsland/ClassIsland/search?l=c%23)
+![GitHub Repo size](https://img.shields.io/github/repo-size/XPSoftware/ClassIsland-Legacy?style=flat-square&color=3cb371)
+[![GitHub Repo Languages](https://img.shields.io/github/languages/top/XPSoftware/ClassIsland-Legacy?style=flat-square)](https://github.com/XPSoftware/ClassIsland-Legacy/search?l=c%23)
 
 <a href="https://hellogithub.com/repository/ClassIsland/ClassIsland" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=fb844b7286244bf8a1d67bfd228a95c7&claim_uid=kZp2qRKGVYrXoTS" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -137,7 +137,7 @@ ClassIsland 与部分窗口美化工具（特别是如 Mica For Everyone 这类�
 对于普通用户，可以在以下渠道下载到本软件，请根据自身网络环境选择合适的渠道。
 
 - [**ClassIsland 官网（推荐）**](https://classisland.tech/download)
-- [GitHub Releases](https://github.com/ClassIsland/ClassIsland/releases/)
+- [GitHub Releases](https://github.com/XPSoftware/ClassIsland-Legacy/releases/)
 
 下载完成后，将软件压缩包解压到一个**独立的文件夹（运行路径不能有中文）**，运行软件即可开始使用。解压时请不要解压到网盘同步文件夹、【下载】文件夹中，否则可能会出现**文件无法读写、文件丢失**等问题。
 
@@ -149,27 +149,24 @@ ClassIsland 与部分窗口美化工具（特别是如 Mica For Everyone 这类�
 
 您也可以加入这些社区**寻求帮助**：
 
-[![GitHub Issues](https://img.shields.io/github/issues-search/ClassIsland/ClassIsland?query=is%3Aopen&style=flat-square&logo=github&label=Issues&color=%233fb950)](https://github.com/ClassIsland/ClassIsland/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/ClassIsland/ClassIsland?style=flat-square&logo=Github&label=Discussions)](https://github.com/ClassIsland/ClassIsland/discussions)
+[![GitHub Issues](https://img.shields.io/github/issues-search/XPSoftware/ClassIsland-Legacy?query=is%3Aopen&style=flat-square&logo=github&label=Issues&color=%233fb950)](https://github.com/XPSoftware/ClassIsland-Legacy/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/XPSoftware/ClassIsland-Legacy?style=flat-square&logo=Github&label=Discussions)](https://github.com/XPSoftware/ClassIsland-Legacy/discussions)
 [![加入 QQ 频道](https://img.shields.io/badge/QQ_%E9%A2%91%E9%81%93-classisland-%230066cc?style=flat-square&logo=TencentQQ)](https://pd.qq.com/s/scb3wzia)
 [![加入 QQ 群](https://img.shields.io/badge/QQ_%E7%BE%A4-958840932-%230066cc?style=flat-square&logo=TencentQQ)](https://qm.qq.com/q/4NsDQKiAuQ)
 
-如果您确定您遇到的问题是一个 **Bug**，或者您要提出一项**新的功能**，请[提交 Issue](https://github.com/ClassIsland/ClassIsland/issues/new/choose)。
+如果您确定您遇到的问题是一个 **Bug**，或者您要提出一项**新的功能**，请[提交 Issue](https://github.com/XPSoftware/ClassIsland-Legacy/issues/new/choose)。
 
 ## 开发
-
-![Alt](https://repobeats.axiom.co/api/embed/ace0a0609166a47b16a58bb7d2d0d5e20968d4d1.svg "Repobeats analytics image")
 
 本项目目前开发状态：
 
 | 分支 | 开发状态 | 状态 |
 | --- | --- | --- |
-| [`master`](https://github.com/ClassIsland/ClassIsland/tree/master) | 正在此分支上维护版本 [1.7 - RyouYamada](https://github.com/ClassIsland/ClassIsland/milestone/8)。| [![Build](https://github.com/ClassIsland/ClassIsland/actions/workflows/build_release.yml/badge.svg?branch=master&style=flat_square)](https://github.com/ClassIsland/ClassIsland/actions/workflows/build_release.yml) [![CodeFactor](https://www.codefactor.io/repository/github/classisland/classisland/badge/master)](https://www.codefactor.io/repository/github/classisland/classisland/overview/master) |
-| [`dev`](https://github.com/ClassIsland/ClassIsland/tree/dev) | 正在此分支上早期开发版本 [2.0 - Khaslana](https://github.com/ClassIsland/ClassIsland/milestone/9)。| [![Build](https://github.com/ClassIsland/ClassIsland/actions/workflows/build_release.yml/badge.svg?branch=dev)](https://github.com/ClassIsland/ClassIsland/actions/workflows/build_release.yml)  |
+| [`master`](https://github.com/XPSoftware/ClassIsland-Legacy/tree/master) | 正在此分支上维护版本 [1.7 - RyouYamada](https://github.com/XPSoftware/ClassIsland-Legacy/milestone/8)。| [![Build](https://github.com/XPSoftware/ClassIsland-Legacy/actions/workflows/build_release.yml/badge.svg?branch=master&style=flat_square)](https://github.com/XPSoftware/ClassIsland-Legacy/actions/workflows/build_release.yml) [![CodeFactor](https://www.codefactor.io/repository/github/classisland/classisland/badge/master)](https://www.codefactor.io/repository/github/classisland/classisland/overview/master) |
 
 要在本地编译应用，请参考文档[配置 ClassIsland 本体开发环境](https://docs.classisland.tech/dev/get-started/devlopment.html)。
 
-如果您有意愿为 ClassIsland 做出代码贡献，请先阅读 [贡献指南](CONTRIBUTING.md) 来了解如何为 ClassIsland 做代码贡献。我们欢迎想要为本应用实现新功能或进行改进的同学提交 [Pull Request](https://github.com/ClassIsland/ClassIsland/pulls)。
+如果您有意愿为 ClassIsland 做出代码贡献，请先阅读 [贡献指南](CONTRIBUTING.md) 来了解如何为 ClassIsland 做代码贡献。我们欢迎想要为本应用实现新功能或进行改进的同学提交 [Pull Request](https://github.com/XPSoftware/ClassIsland-Legacy/pulls)。
 
 ## 致谢
 
@@ -250,25 +247,6 @@ ClassIsland 与部分窗口美化工具（特别是如 Mica For Everyone 这类�
 
 感谢以下赞助商对本项目的支持。
 
-<table>
-  <tr>
-    <td>
-      <img alt="SignPath" src="https://signpath.org/assets/favicon-50x50.png" />
-    </td>
-    <td>
-    Free code signing on Windows provided by <a href="https://signpath.io">SignPath.io</a>, certficate by <a href="https://signpath.org/">SignPath Foundation</a>
-    </td>
-  </tr> 
-  <tr>
-    <td>
-      <img alt="苏州晔淞信息科技有限公司" src="https://res.classisland.tech/sponsors/ystron.png" width="50" height="50"/>
-    </td>
-    <td>
-    由<a href="https://www.yesongit.com">苏州晔淞信息科技有限公司</a>提供云计算支持。苏州晔淞信息科技有限公司以自主创新、灵活开放的理念，以行业领先的云计算平台助力云上业务创新。
-    </td>
-  </tr> 
-</table>
-
 ## 代码签名策略 / Code signing policy
 
 - Free code signing provided by [SignPath.io](https://about.signpath.io/), certificate by [SignPath Foundation](https://signpath.org/).<br/>
@@ -282,8 +260,6 @@ ClassIsland 与部分窗口美化工具（特别是如 Mica For Everyone 这类�
 
 ## 许可证
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHelloWRC%2FClassIsland.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHelloWRC%2FClassIsland?ref=badge_shield&style=flat-square)
-
 本项目中的以下项目基于 GNU Lesser General Public License v3.0 获得许可：
 
 - [ClassIsland.PluginSdk](ClassIsland.PluginSdk)
@@ -293,11 +269,9 @@ ClassIsland 与部分窗口美化工具（特别是如 Mica For Everyone 这类�
 
 本项目的其余部分（包括但不限于应用本体）基于 [GNU General Public License v3.0](LICENSE.txt) 获得许可。
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHelloWRC%2FClassIsland.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHelloWRC%2FClassIsland?ref=badge_large)
-
 ## Stars 历史
 
-[![Star 历史](https://starchart.cc/ClassIsland/ClassIsland.svg?variant=adaptive)](https://starchart.cc/ClassIsland/ClassIsland)
+[![Star 历史](https://starchart.cc/XPSoftware/ClassIsland-Legacy.svg?variant=adaptive)](https://starchart.cc/XPSoftware/ClassIsland-Legacy)
 
 <div align="center">
 
