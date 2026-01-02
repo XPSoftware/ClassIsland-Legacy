@@ -1,34 +1,34 @@
-* @HelloWRC @ClassIsland/developers-classisland @AWDNDWindowsXP @XPSoftware
+* @XPSoftware/devlopers-classisland-legacy @AWDNDWindowsXP
 
 # 关键文件
-/.github/ @HelloWRC @AWDNDWindowsXP
-/tools/ @HelloWRC @AWDNDWindowsXP
-*.md @HelloWRC @AWDNDWindowsXP
-*.ps1 @HelloWRC @AWDNDWindowsXP
+/.github/ @AWDNDWindowsXP
+/tools/ @AWDNDWindowsXP
+*.md @AWDNDWindowsXP
+*.ps1 @AWDNDWindowsXP
 
 # 构建关键文件
-*.csproj @HelloWRC @AWDNDWindowsXP
-*.props @HelloWRC @AWDNDWindowsXP
-*.targets @HelloWRC @AWDNDWindowsXP
+*.csproj @AWDNDWindowsXP
+*.props @AWDNDWindowsXP
+*.targets @AWDNDWindowsXP
 
 # 关键组件
-/ClassIsland/Services/LessonsService.cs @HelloWRC @AWDNDWindowsXP
-/ClassIsland/Services/ProfileService.cs @HelloWRC @AWDNDWindowsXP
-/ClassIsland/Services/SettingsService.cs @HelloWRC @AWDNDWindowsXP
-/ClassIsland/Services/Management/ @HelloWRC @AWDNDWindowsXP
-/ClassIsland/MainWindow.xaml* @HelloWRC @AWDNDWindowsXP
-/ClassIsland/App.xaml* @HelloWRC @AWDNDWindowsXP
-/ClassIsland.Core/ThemeBase.xaml @HelloWRC @AWDNDWindowsXP
+/ClassIsland/Services/LessonsService.cs @AWDNDWindowsXP
+/ClassIsland/Services/ProfileService.cs @AWDNDWindowsXP
+/ClassIsland/Services/SettingsService.cs @AWDNDWindowsXP
+/ClassIsland/Services/Management/ @AWDNDWindowsXP
+/ClassIsland/MainWindow.xaml* @AWDNDWindowsXP
+/ClassIsland/App.xaml* @AWDNDWindowsXP
+/ClassIsland.Core/ThemeBase.xaml @AWDNDWindowsXP
 
 # 类别：自动化
-**/Action @DryIce-cc @HelloWRC @AWDNDWindowsXP
-**/Automation @DryIce-cc @HelloWRC @AWDNDWindowsXP
-/ClassIsland.Core/Abstractions/Services/IActionService.cs @DryIce-cc @HelloWRC @AWDNDWindowsXP
-/ClassIsland.Core/Abstractions/Services/IAutomationService.cs @DryIce-cc @HelloWRC @AWDNDWindowsXP
-/ClassIsland/Services/ActionService.cs @DryIce-cc @HelloWRC @AWDNDWindowsXP
-/ClassIsland/Services/AutomationService.cs @DryIce-cc @HelloWRC @AWDNDWindowsXP
-/ClassIsland/Services/ActionHandlers @DryIce-cc @HelloWRC @AWDNDWindowsXP
-/ClassIsland/Controls/ActionSettingsControls @DryIce-cc @HelloWRC @AWDNDWindowsXP
+**/Action  @AWDNDWindowsXP
+**/Automation  @AWDNDWindowsXP
+/ClassIsland.Core/Abstractions/Services/IActionService.cs  @AWDNDWindowsXP
+/ClassIsland.Core/Abstractions/Services/IAutomationService.cs  @AWDNDWindowsXP
+/ClassIsland/Services/ActionService.cs  @AWDNDWindowsXP
+/ClassIsland/Services/AutomationService.cs  @AWDNDWindowsXP
+/ClassIsland/Services/ActionHandlers  @AWDNDWindowsXP
+/ClassIsland/Controls/ActionSettingsControls  @AWDNDWindowsXP
 
 # 类别：集控/Protobuf
-*.proto @Doctor-yoi @HelloWRC @AWDNDWindowsXP
+*.proto @AWDNDWindowsXP
